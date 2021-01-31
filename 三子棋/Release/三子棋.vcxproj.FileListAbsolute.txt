@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 E:\我敲过的代码\三子棋\Release\三子棋.exe
+=======
+E:\我敲过的代码\三子棋\Release\三子棋.exe
+>>>>>>> 2a3db5307ebbcce20d7c7b672e42bd30f89fefdf

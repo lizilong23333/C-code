@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 E:\我敲过的代码\三子棋\Debug\三子棋.exe
 E:\我敲过的代码\三子棋\Debug\三子棋.pdb
+=======
+E:\我敲过的代码\三子棋\Debug\三子棋.exe
+E:\我敲过的代码\三子棋\Debug\三子棋.pdb
+>>>>>>> 2a3db5307ebbcce20d7c7b672e42bd30f89fefdf

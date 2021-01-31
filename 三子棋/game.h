@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
@@ -18,3 +19,25 @@ void ComputerMove(char board[ROW][COL], int row, int col);
 
 //≈–∂œ ‰”Æ
 char CheckWin(char board[ROW][COL], int row, int col);
+=======
+#include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
+#define ROW 3
+#define COL 3
+
+//≥ı ºªØ∆Â≈Ã
+void Initboard(char board[ROW][COL], int row, int col);
+
+//¥Ú”°∆Â≈Ã
+void DisplayBoard(char board[ROW][COL], int row, int col);
+
+//ÕÊº“œ¬∆Â
+void PlayMove(char board[ROW][COL], int row, int col);
+
+//µÁƒ‘œ¬∆Â
+void ComputerMove(char board[ROW][COL], int row, int col);
+
+//≈–∂œ ‰”Æ
+char CheckWin(char board[ROW][COL], int row, int col);
+>>>>>>> 2a3db5307ebbcce20d7c7b672e42bd30f89fefdf

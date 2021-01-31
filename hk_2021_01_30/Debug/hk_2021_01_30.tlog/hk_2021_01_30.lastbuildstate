@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.28.29333:TargetPlatformVersion=10.0.18362.0:
 Debug|Win32|E:\我敲过的代码\hk_2021_01_30\|
+=======
+PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.28.29333:TargetPlatformVersion=10.0.18362.0:
+Debug|Win32|E:\我敲过的代码\hk_2021_01_30\|
+>>>>>>> 2a3db5307ebbcce20d7c7b672e42bd30f89fefdf
